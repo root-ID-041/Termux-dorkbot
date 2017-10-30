@@ -110,3 +110,4 @@ Options:
 * report_dir - directory to save wapiti JSON scan report (default: reports/)
 
 # Termux-dorkbot
+# Termux-dorkbot
